@@ -1,5 +1,12 @@
 # Proposta de Estruturação e Funcionamente do Núcleo de Imersões
 
+| Prioridade    | Complexidade        |                   |                    |
+|---------------|---------------------|-------------------|--------------------|
+|               | Alta                | Média             | Baixa              |
+| Alta          | Imersão Automatiza  | Time volante      | Curso + Mentoria   |
+| Média         | Imersão Automatiza  | Time volante      | Curso + Mentoria   |
+| Baixa         | Time volante        | Curso + Mentoria  | Curso + Mentoria   |
+
 **Todos: uma pessoa da área demandante faz o curso de 80h.** 
 
 - Prioridade define a ordem atendimento  
