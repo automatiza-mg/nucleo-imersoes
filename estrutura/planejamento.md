@@ -1,16 +1,17 @@
 # Proposta de Estruturação e Funcionamente do Núcleo de Imersões
-Todos: uma pessoa da área demandante faz o curso de 80h. 
 
-Prioridade define a ordem atendimento  
+**Todos: uma pessoa da área demandante faz o curso de 80h.** 
 
-Complexidade define o grau de envolvimento da equipe. Como definir complexidade? 
+- Prioridade define a ordem atendimento  
 
-O que pode ser resolvido só com automate? O que não precisa de alterações no fluxo? Tempo médio para execução da solução?  
+- Complexidade define o grau de envolvimento da equipe. **Como definir complexidade?**
 
-Sugestão de parâmetro: tempo; ferramental; 
+- O que pode ser resolvido só com automate? O que não precisa de alterações no fluxo? Tempo médio para execução da solução?  
 
-Sugestão: no fim, parte dessa avaliação é subjetiva. 
+	- Sugestão de parâmetro: tempo; ferramental; 
 
-Prioridade e Complexidade definem o valor do projeto 
+	- Sugestão: no fim, parte dessa avaliação é subjetiva. 
 
-Curso EAD – tempo adequado para execução do curso. 
+	- Prioridade e Complexidade definem o valor do projeto 
+
+- Curso EAD – tempo adequado para execução do curso. 
