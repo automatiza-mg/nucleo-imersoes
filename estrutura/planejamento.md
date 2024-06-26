@@ -18,24 +18,14 @@
 
 ## Pré-projeto:  
 
-Primeiro contato para avaliação de prioridade e complexidade (Reunião 1h) 
-
-Segundo contato para montagem de escopo (doc. padrão) e alinhamento do formato de atendimento. 
-
-Sugestões para a definição do escopo:  
-
-Desenhar o fluxo como ele está  
-
-Necessário ponderar o nível de profundidade do fluxo: macro; O que é desenhar o fluxo?  
-
-Importante definir o que não está no escopo 
-
-o que eu acho que poderia ter no fluxo macro: análogo ao 'o que este robô faz'? teria que mencionar pelo menos as chaves (cpf, masp, etc), origem dos dados, artefatos e sistemas que são usados (planilha, terminal prodemge, sei) 
-
-Disseminação (Cora): Seleção de pessoas: Como podemos identificar pessoas que possuem afinidade com o trabalho do automatiza?  
-
-Banco de talentos: agentes de simplificação; grupo minas de dados;  
-
-Formar um novo grupo? Mãe/Pai de robô  
-
-Hackathons: encontros para resolução de problemas reais.  
+1. Primeiro contato para avaliação de prioridade e complexidade (Reunião 1h)
+1. Segundo contato para montagem de escopo (doc. padrão) e alinhamento do formato de atendimento. 
+- Sugestões para a definição do escopo:  
+	- Desenhar o fluxo como ele está  
+	- Necessário ponderar o nível de profundidade do fluxo: macro; O que é desenhar o fluxo?  
+	- Importante definir o que não está no escopo 
+	- o que eu acho que poderia ter no fluxo macro: análogo ao 'o que este robô faz'? teria que mencionar pelo menos as chaves (cpf, masp, etc), origem dos dados, artefatos e sistemas que são usados (planilha, terminal prodemge, sei) 
+	- Disseminação (Cora): Seleção de pessoas: Como podemos identificar pessoas que possuem afinidade com o trabalho do automatiza?  
+		- Banco de talentos: agentes de simplificação; grupo minas de dados;  
+	- Formar um novo grupo? Mãe/Pai de robô  
+	- Hackathons: encontros para resolução de problemas reais.  
