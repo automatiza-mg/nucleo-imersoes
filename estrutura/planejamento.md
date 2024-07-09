@@ -35,4 +35,4 @@
 	- Disseminação (Cora): Seleção de pessoas: Como podemos identificar pessoas que possuem afinidade com o trabalho do automatiza?  
 		- Banco de talentos: agentes de simplificação; grupo minas de dados;  
 	- Formar um novo grupo? Mãe/Pai de robô  
-	- Hackathons: encontros para resolução de problemas reais.  
+	- Hackathons: encontros para resolução de problemas reais.
